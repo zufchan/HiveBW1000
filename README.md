@@ -3,4 +3,4 @@ This is an analysis of the best 1000 players of the Bedwars gamemode on The Hive
 
 # **IMPORTANT: Since GitHub doesn't support the plotly plots in the Jupyter Notebook directly, download the HTML file for that. Thank you!** 
 
-Apparently GitHub also doesn't support the size of the html file, you could just open it on your PC, so at there is no need for you to install Jupyter Notebook to see the analysis.
+Apparently GitHub also doesn't support the size of the html file, you could just open it on your PC, so at least there is no need for you to install Jupyter Notebook to see the analysis.
